@@ -1,4 +1,9 @@
 {
+  "git": {
+    "commitMessage": "Automated release ${version}",
+    "requireBranch": "master",
+    "git.requireCommits": true
+  },
   "npm": {
     "publish": false
   },
