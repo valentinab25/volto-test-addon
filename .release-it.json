@@ -1,7 +1,7 @@
 {
   "git": {
     "commitMessage": "Automated release ${version}",
-    "requireBranch": "master",
+    "requireBranch": "develop",
     "git.requireCommits": true
   },
   "npm": {
